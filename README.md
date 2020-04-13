@@ -12,3 +12,4 @@ In this directory. I will present my original solutions to some of leetcode 30-d
 ## Week 2 
 * Middle of Linked List
 * Last Stone Weight
+* [Contiguous Binary Array](./Day-13_contiguous_array.md)
