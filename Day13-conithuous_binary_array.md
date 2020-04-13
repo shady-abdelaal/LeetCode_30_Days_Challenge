@@ -37,5 +37,4 @@ class Solution(object):
             else:
                 my_dict[accum] = i
         return max_length    
-            
-            ```
+```
